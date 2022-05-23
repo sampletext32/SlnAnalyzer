@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlnAnalyzer", "SlnAnalyzer\SlnAnalyzer.csproj", "{603FE11B-1211-4079-910F-E14A969B8AFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlnAnalyzerWeb", "SlnAnalyzerWeb\SlnAnalyzerWeb.csproj", "{95CBC470-C3E9-4456-8F36-787B212360F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{D80B60D5-510C-4018-82CB-88BEAB804C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603FE11B-1211-4079-910F-E14A969B8AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603FE11B-1211-4079-910F-E14A969B8AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603FE11B-1211-4079-910F-E14A969B8AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603FE11B-1211-4079-910F-E14A969B8AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CBC470-C3E9-4456-8F36-787B212360F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CBC470-C3E9-4456-8F36-787B212360F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CBC470-C3E9-4456-8F36-787B212360F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CBC470-C3E9-4456-8F36-787B212360F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D80B60D5-510C-4018-82CB-88BEAB804C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80B60D5-510C-4018-82CB-88BEAB804C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80B60D5-510C-4018-82CB-88BEAB804C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80B60D5-510C-4018-82CB-88BEAB804C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
